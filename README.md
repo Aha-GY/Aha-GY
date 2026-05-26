@@ -34,11 +34,19 @@ Also passionate about algorithms and problem solving, with **380+ solved LeetCod
 
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="25%">
+
 ### Frontend
 - React
 - Next.js
 - Vue.js
 - Tailwind CSS
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Backend
 - Node.js
@@ -46,10 +54,19 @@ Also passionate about algorithms and problem solving, with **380+ solved LeetCod
 - Laravel
 - REST APIs
 
-### Database & Cloud
+</td>
+
+<td valign="top" width="25%">
+
+### Database
 - PostgreSQL
 - Supabase
 - Firebase
+- MySQL
+
+</td>
+
+<td valign="top" width="25%">
 
 ### Languages
 - JavaScript
@@ -57,6 +74,9 @@ Also passionate about algorithms and problem solving, with **380+ solved LeetCod
 - Python
 - PHP
 
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 GitHub Stats
