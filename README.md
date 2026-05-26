@@ -28,8 +28,12 @@ Worked with 15+ clients across the US and Europe, maintaining a 100% Job Success
 Also passionate about algorithms and problem solving, with **380+ solved LeetCode problems** using Python. https://leetcode.com/u/aha-du/
 
 ---
+## 🛠 Tech Stack
 
-flutter python react nodejs mongodb firebase postgresql django vuejs git
+<p align="center">
+  <img src="https://github.com/Aha-GY/Aha-GY/blob/main/tech-stack.png" width="100%" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
