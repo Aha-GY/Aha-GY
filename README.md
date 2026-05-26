@@ -5,12 +5,9 @@ Full-Stack Developer | SaaS Builder | AI & Automation Enthusiast
 </h3>
 
 ---
-
 ## 🚀 About Me
 
 Full-Stack Developer focused on building modern SaaS platforms, AI-powered applications, and scalable web systems.
-
-Experienced in React, Next.js, Node.js, Supabase, PostgreSQL, and API integrations. I enjoy turning product ideas into real working systems with clean user experiences and practical backend architecture.
 
 Worked with 15+ clients across the US and Europe, maintaining a 100% Job Success Score and consistent 5-star reviews on Upwork through reliable communication and fast execution.
 
@@ -32,70 +29,12 @@ Also passionate about algorithms and problem solving, with **380+ solved LeetCod
 
 ---
 
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-
-### Frontend
-- React
-- Next.js
-- Vue.js
-- Tailwind CSS
-
-</td>
-
-<td valign="top" width="25%">
-
-### Backend
-- Node.js
-- Django
-- Laravel
-- REST APIs
-
-</td>
-
-<td valign="top" width="25%">
-
-### Database
-- PostgreSQL
-- Supabase
-- Firebase
-- MySQL
-
-</td>
-
-<td valign="top" width="25%">
-
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- PHP
-
-</td>
-</tr>
-</table>
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aha-GY&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aha-GY&theme=tokyonight" />
-</p>
-
+flutter python react nodejs mongodb firebase postgresql django vuejs git
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ahadu-girma-571311292/
 - Upwork: https://www.upwork.com/freelancers/~0174b645973e3c1650?mp_source=share
-- Email: ahagy2015@gmail.com
 
 
 ---
